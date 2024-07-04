@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-Author - Gaurav sharma
+Author - Gaurav sharma (student)
